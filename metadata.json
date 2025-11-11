@@ -1,0 +1,5 @@
+{
+  "name": "12V Battery Management Simulator",
+  "description": "An interactive web-based 12V Battery Management System (BMS) simulator. Control inputs like SOC, temperature, and vehicle mode to see how an automotive ECU manages charging and discharging logic, displayed on a professional dashboard with real-time graphs.",
+  "requestFramePermissions": []
+}
